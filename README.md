@@ -16,6 +16,9 @@ A virtualização e o desenvolvimento nativo da Nuvem eliminam o problema do ger
 
 Porém, o provisionamento da infraestrutura virtualizada ainda distrai o foco dos desenvolvedores da codificação, ainda exige que eles repitam o trabalho de provisionamento para cada nova implantação e não fornece uma maneira fácil de rastrear alterações no ambiente e evitar inconsistências que afetam as implantações.
 
+### Fonte<br>
+<a href="https://www.redhat.com/pt-br/topics/automation/what-is-infrastructure-as-code-iac"> Red Hat </a><br>
+
 
 ### Autor <br>
 <img src="https://github.com/wevertoncamposdev.png" width=115><br>
